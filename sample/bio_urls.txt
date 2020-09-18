@@ -16,7 +16,6 @@ https://cs.illinois.edu/about/people/all-faculty/clblake
 http://hatswitch.org/~nikita/
 http://bretl.csl.illinois.edu/
 https://astro.illinois.edu/directory/profile/bigdog
-https://cs.illinois.edu/about/people/all-faculty/mcaccamo
 http://www.cs.illinois.edu/~caesar
 http://cs.illinois.edu/people/faculty/roy-campbell
 https://nete.com/company/team/
@@ -76,6 +75,7 @@ https://cs.illinois.edu/about/people/all-faculty/jianh
 https://cs.illinois.edu/about/people/all-faculty/yunhuang
 https://cs.illinois.edu/about/people/all-faculty/w-hwu
 http://depend.csl.illinois.edu/
+https://www.ics.uci.edu/~jabbarvr/
 http://shj.cs.illinois.edu
 http://blender.cs.illinois.edu/hengji.html
 https://cs.illinois.edu/about/people/all-faculty/jiang56
@@ -111,7 +111,7 @@ http://lumetta.web.engr.illinois.edu/
 http://mir.cs.illinois.edu/marinov
 https://cs.illinois.edu/about/people/all-faculty/mchenry
 http://rutamehta.cs.illinois.edu/
-https://cs.illinois.edu/about/people/all-faculty/charithm
+https://charithmendis.com
 https://cs.illinois.edu/about/people/all-faculty/meseguer
 https://cs.illinois.edu/about/people/all-faculty/mickunas
 http://publish.illinois.edu/milenkovic/
@@ -135,7 +135,7 @@ https://cs.illinois.edu/about/people/all-faculty/sjp
 http://jianpeng.web.engr.illinois.edu
 https://cs.illinois.edu/about/people/all-faculty/pitt
 http://maxim.ece.illinois.edu
-https://parasol.tamu.edu/~rwerger/
+https://cs.illinois.edu/about/people/all-faculty/rwerger
 https://cs.illinois.edu/about/people/all-faculty/reingold
 https://sites.google.com/view/renling
 https://cs.illinois.edu/about/people/all-faculty/generobi
@@ -147,7 +147,7 @@ https://cs.illinois.edu/about/people/all-faculty/lanes
 http://aschwing.web.engr.illinois.edu
 https://cs.illinois.edu/about/people/all-faculty/eseidel
 http://publish.illinois.edu/cpsintegrationlab/people/lui-sha/
-https://cs.illinois.edu/about/people/all-faculty/shaffer1
+https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile
 http://mfsilva.web.illinois.edu/
 http://www.sinhalab.net/
 https://cs.illinois.edu/about/people/all-faculty/skeel
@@ -171,7 +171,7 @@ http://vmahesh.cs.illinois.edu
 http://gangw.cs.illinois.edu/
 https://cs.illinois.edu/about/people/all-faculty/shaowen
 https://yangwang.ischool.illinois.edu/
-https://cs.illinois.edu/about/people/all-faculty/yxw
+https://yxw.web.illinois.edu
 http://tandy.cs.illinois.edu
 http://tiffaniwilliams.com
 http://winslett.cs.illinois.edu/
